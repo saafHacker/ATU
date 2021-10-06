@@ -1,4 +1,4 @@
 #!/bin/sh
 #This is a comment
 
-Echo Hello World
+Echo Du er Blevet Hacked!!
