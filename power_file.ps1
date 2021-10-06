@@ -1,1 +1,1 @@
-Write-Host 'Hello, World!'
+Write-Host 'Du er Blevet Hacked!!!!'
